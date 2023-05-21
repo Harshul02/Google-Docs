@@ -2,6 +2,8 @@
 
 This is a Google Docs clone made using React.js. It provides a simple and intuitive interface for creating and editing documents.
 
+Try it out [Google Docs](https://harshul02.github.io/Google-Docs/)
+
 ## Components
 
 ### Index
