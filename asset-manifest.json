@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Google-Docs/static/css/main.1442a10d.css",
+    "main.js": "/Google-Docs/static/js/main.63ad3e9e.js",
+    "static/media/task.png": "/Google-Docs/static/media/task.58c319fb207da3af1095.png",
+    "static/media/keep.svg": "/Google-Docs/static/media/keep.7ab0548062cbbb7de28d426e604107c5.svg",
+    "static/media/calender.svg": "/Google-Docs/static/media/calender.80bef31581ecd285c49f269e75477bb0.svg",
+    "static/media/maps.svg": "/Google-Docs/static/media/maps.d9de55dd8e50bd80cfa809cddc1a4fb2.svg",
+    "index.html": "/Google-Docs/index.html",
+    "static/media/plus.svg": "/Google-Docs/static/media/plus.10176aa413cd7bf98d5b1080ccaf8e12.svg",
+    "main.1442a10d.css.map": "/Google-Docs/static/css/main.1442a10d.css.map",
+    "main.63ad3e9e.js.map": "/Google-Docs/static/js/main.63ad3e9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1442a10d.css",
+    "static/js/main.63ad3e9e.js"
+  ]
+}
